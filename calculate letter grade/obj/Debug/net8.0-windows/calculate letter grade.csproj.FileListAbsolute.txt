@@ -1,0 +1,16 @@
+C:\Users\penhs\source\repos\Chapter-2\calculate letter grade\calculate letter grade\obj\Debug\net8.0-windows\calculate letter grade.csproj.GenerateResource.cache
+C:\Users\penhs\source\repos\Chapter-2\calculate letter grade\calculate letter grade\obj\Debug\net8.0-windows\calculate letter grade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\penhs\source\repos\Chapter-2\calculate letter grade\calculate letter grade\obj\Debug\net8.0-windows\calculate letter grade.AssemblyInfoInputs.cache
+C:\Users\penhs\source\repos\Chapter-2\calculate letter grade\calculate letter grade\obj\Debug\net8.0-windows\calculate letter grade.AssemblyInfo.cs
+C:\Users\penhs\source\repos\Chapter-2\calculate letter grade\calculate letter grade\obj\Debug\net8.0-windows\calculate letter grade.csproj.CoreCompileInputs.cache
+C:\Users\penhs\source\repos\Chapter-2\calculate letter grade\calculate letter grade\bin\Debug\net8.0-windows\calculate letter grade.exe
+C:\Users\penhs\source\repos\Chapter-2\calculate letter grade\calculate letter grade\bin\Debug\net8.0-windows\calculate letter grade.deps.json
+C:\Users\penhs\source\repos\Chapter-2\calculate letter grade\calculate letter grade\bin\Debug\net8.0-windows\calculate letter grade.runtimeconfig.json
+C:\Users\penhs\source\repos\Chapter-2\calculate letter grade\calculate letter grade\bin\Debug\net8.0-windows\calculate letter grade.dll
+C:\Users\penhs\source\repos\Chapter-2\calculate letter grade\calculate letter grade\bin\Debug\net8.0-windows\calculate letter grade.pdb
+C:\Users\penhs\source\repos\Chapter-2\calculate letter grade\calculate letter grade\obj\Debug\net8.0-windows\calculate_letter_grade.CalculateLetterGrade.resources
+C:\Users\penhs\source\repos\Chapter-2\calculate letter grade\calculate letter grade\obj\Debug\net8.0-windows\calculate letter grade.dll
+C:\Users\penhs\source\repos\Chapter-2\calculate letter grade\calculate letter grade\obj\Debug\net8.0-windows\refint\calculate letter grade.dll
+C:\Users\penhs\source\repos\Chapter-2\calculate letter grade\calculate letter grade\obj\Debug\net8.0-windows\calculate letter grade.pdb
+C:\Users\penhs\source\repos\Chapter-2\calculate letter grade\calculate letter grade\obj\Debug\net8.0-windows\calculate letter grade.genruntimeconfig.cache
+C:\Users\penhs\source\repos\Chapter-2\calculate letter grade\calculate letter grade\obj\Debug\net8.0-windows\ref\calculate letter grade.dll
